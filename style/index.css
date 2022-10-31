@@ -167,7 +167,7 @@ footer {
   align-items: center;
   list-style: none;
   height: 30px;
-  margin: 9px;
+  margin: 9px 5px;
   font-size: 14px;
   cursor: pointer;
 }
